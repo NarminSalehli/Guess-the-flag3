@@ -1,1 +1,1 @@
-# Guess-the-flag3
+Guess the flag oyununu SwiftUI ilə yaratmışam. Oyun 8 sualdan ibarətdir. Hər sualda sizə random ölkələrin bayraqları verilir. Suala səhv cavab verildikdə proqram sizə doğru cavabı göstərir. 8 sualdan sonra oyun bitir, score sıfırlanır və yeni oyun başlayır. 
